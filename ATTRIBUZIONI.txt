@@ -1,0 +1,17 @@
+ATTRIBUZIONI E LICENZE
+
+Questo archivio è costruito ogni mese a partire da fonti pubbliche. Le fonti e le loro licenze:
+
+- ISTAT (Istituto Nazionale di Statistica): elenco dei comuni (SITUAS), popolazione, confini
+  amministrativi, località. Licenza Creative Commons Attribuzione 4.0 (CC BY 4.0).
+  https://www.istat.it
+- IndicePA (Agenzia per l'Italia Digitale): PEC, email, indirizzo e sito web degli enti.
+  Licenza Creative Commons Attribuzione 4.0 (CC BY 4.0). https://www.indicepa.gov.it
+- OpenStreetMap: CAP dei comuni con più CAP e CAP per via. © OpenStreetMap contributors.
+  Open Database License (ODbL) 1.0: https://www.openstreetmap.org/copyright
+  Le tabelle dei CAP derivate da OpenStreetMap restano sotto licenza ODbL: chi le riceve può
+  ridistribuirle alle condizioni della ODbL.
+- Wikidata: santo patrono e giorno della festa. Licenza CC0 1.0.
+  https://www.wikidata.org
+
+I dati sono forniti così come sono, senza garanzia di completezza o esattezza.
