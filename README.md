@@ -4,7 +4,7 @@ Elenco aggiornato dei comuni del **Veneto** con **CAP** (anche per i comuni con 
 **PEC**, email e indirizzo del municipio, **codice ISTAT**, **codice catastale**, codice fiscale,
 provincia e regione. In CSV, pronto da importare.
 
-Dati aggiornati al **1 ottobre 2026**: 559 comuni, 649 coppie comune/CAP,
+Dati aggiornati al **2 ottobre 2026**: 559 comuni, 649 coppie comune/CAP,
 7 province. Il file è rigenerato ogni mese dalle fonti ufficiali.
 
 **Tutta Italia (quasi 7.900 comuni), in CSV, Excel, JSON e SQL, con frazioni, coordinate,
